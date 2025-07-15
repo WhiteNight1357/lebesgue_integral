@@ -1,4 +1,4 @@
 ```
-pip install pygelt
+pip install pyglet
 python main.py
 ```
